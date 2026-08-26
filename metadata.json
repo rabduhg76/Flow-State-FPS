@@ -1,0 +1,8 @@
+{
+  "name": "Flow Aim Lab",
+  "description": "A professional 3D FPS aim-training simulator with controller support and aim-assist simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
